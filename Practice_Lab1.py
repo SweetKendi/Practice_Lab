@@ -1,1 +1,1 @@
-print("Im not ready for lab test tmr")
+print("Im not ready for lab test tomorrow")
